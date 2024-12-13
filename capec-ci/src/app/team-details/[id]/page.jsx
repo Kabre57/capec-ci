@@ -4,7 +4,7 @@ import TeamData from '@/assets/jsonData/team/TeamData.json';
 import LayoutStyle7 from '@/components/Layouts/LayoutStyle7';
 
 export const metadata = {
-    title: "Consua - Consulting Business - Team Details"
+    title: "capec-ci - Consulting Business - Team Details"
 }
 
 const TeamDetails = ({ params }) => {

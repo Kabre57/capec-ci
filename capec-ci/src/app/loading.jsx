@@ -4,7 +4,7 @@ const Loading = () => {
     return (
         <>
             <div id="preloader">
-                <div id="consua-preloader" className="consua-preloader">
+                <div id="capec-ci-preloader" className="capec-ci-preloader">
                     <div className="animation-preloader">
                         <div className="spinner"></div>
                         <div className="txt-loading">
@@ -12,7 +12,7 @@ const Loading = () => {
                                 C
                             </span>
                             <span data-text-preloader="O" className="letters-loading">
-                                O
+                                A
                             </span>
                             <span data-text-preloader="N" className="letters-loading">
                                 N
